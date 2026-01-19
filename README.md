@@ -6,7 +6,7 @@ O projeto foi desenvolvido como parte da Atividade Extensionista em Tecnologia A
 
 ---
 
-## 📌 Objetivo do Projeto
+## Objetivo do Projeto
 
 O principal objetivo do PreçoCerto é apoiar microempreendedores no processo de formação de preços, permitindo:
 
@@ -21,7 +21,7 @@ A proposta busca fortalecer a sustentabilidade financeira dos pequenos negócios
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Interface simples e acessível.
 - Cálculo automático de custos.
