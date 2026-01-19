@@ -73,6 +73,6 @@ Além do impacto social, o projeto também fortaleceu competências técnicas co
 
 ---
 
-## ✨ Autora
+## Autora
 
 Projeto desenvolvido por **Aline** no contexto da Atividade Extensionista em Tecnologia Aplicada à Inclusão Digital.
